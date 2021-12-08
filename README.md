@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**gustavoalmeid4/gustavoalmeid4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## I'm Gustavo Almeida!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+:computer: I'm Full Stack Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+
+
+## About me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/gustavo-almeida-678b6b138/)]( https://www.linkedin.com/in/gustavo-almeida-678b6b138/)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
+----------------------------------------------------------------------------------
